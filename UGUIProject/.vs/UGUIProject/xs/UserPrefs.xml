@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{84A6A119-D59E-87EF-E72E-850F65408678}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SkillItem.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SkillItem.cs" Line="28" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UGUIProject" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="SkillItem.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="110420e3-4696-4f18-ba32-017a950be933" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
